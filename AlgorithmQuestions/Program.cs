@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AlgorithmQuestions;
 
-Console.WriteLine("Hello, World!");
-
-
 //1. Fibonacci 
-Fibonacci.RunFibonacci(); 
+//Fibonacci.RunFibonacci();
+
+//2. Finding the Second Largest Number in the Sequence
+FindSecondLargestNumber.RunFindSecondLargestNumber();
