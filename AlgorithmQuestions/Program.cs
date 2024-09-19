@@ -5,4 +5,10 @@ using AlgorithmQuestions;
 //Fibonacci.RunFibonacci();
 
 //2. Finding the Second Largest Number in the Sequence
-FindSecondLargestNumber.RunFindSecondLargestNumber();
+//FindSecondLargestNumber.RunFindSecondLargestNumber();
+
+//3. Palindrom
+Palindrome.RunPalindrome();
+
+//4. Finding Common Divisors of Two Numbers
+//CommonDivisors.RunCommonDivisors();
